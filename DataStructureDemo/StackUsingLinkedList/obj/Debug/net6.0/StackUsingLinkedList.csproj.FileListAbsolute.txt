@@ -1,0 +1,15 @@
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.exe
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.deps.json
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.runtimeconfig.json
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.dll
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\bin\Debug\net6.0\StackUsingLinkedList.pdb
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.csproj.AssemblyReference.cache
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.AssemblyInfoInputs.cache
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.AssemblyInfo.cs
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.dll
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\obj\Debug\net6.0\refint\StackUsingLinkedList.dll
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.pdb
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\obj\Debug\net6.0\StackUsingLinkedList.genruntimeconfig.cache
+F:\VisualStudio\source\repos\DataStructureDemo\StackUsingLinkedList\obj\Debug\net6.0\ref\StackUsingLinkedList.dll
